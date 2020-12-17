@@ -1,6 +1,0 @@
-My Devops Note1
-git status
-git commit
-git 1
-git2
-
